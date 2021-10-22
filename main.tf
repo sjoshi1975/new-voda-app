@@ -7,6 +7,6 @@ resource "aws_instance" "shirish-app-server1" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "shirish-server-new-sj-tf"
+    Name = "shirish-server-new-sj-new-tf"
   }
 }
